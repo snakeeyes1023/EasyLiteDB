@@ -7,7 +7,7 @@ Easy-LiteDB C# is a simple wrapper for LiteDB. Allow you to track changes and sa
 Use the package manager to install [Easy-LiteDB](https://www.nuget.org/packages/LiteDB)
 
 ```bash
-dotnet add package LiteDB --version 5.0.15
+dotnet add package EasyLiteDB --version 1.0.0
 ```
 
 ## Getting started
